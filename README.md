@@ -5,7 +5,11 @@ Ready References for website designer
 ## Jquery CSS Plugins & Framework
 ### CSS Framework
 * Bootstrap is the most popular HTML, CSS, and JS framework for developing responsive, mobile first projects on the web.  https://getbootstrap.com/ ###
+### JQuery Environment
 *  jQuery is a fast, small, and feature-rich JavaScript library https://jquery.com/
+*  Set of user interface built on top of the jQuery. http://jqueryui.com/
+
+### Jquery Plugins
 *  A jQuery plugin that will count up (or down) to a target number at a specified speed. https://github.com/mhuggins/jquery-countTo
 *  jQuery plugin for easy creating loading css3/images animations. https://github.com/vadimsva/waitMe
 *  Just-add-water CSS animations https://daneden.github.io/animate.css/
@@ -24,6 +28,7 @@ Ready References for website designer
 *  JavaScript range slider. https://refreshless.com/nouislider/
 *  jQuery plugin makes simple clientside form validation easy https://jqueryvalidation.org/
 *  A powerful jQuery wizard plugin that supports accessibility and HTML5. https://github.com/rstaib/jquery-steps
+#### RTE Plugins :
 *  Text editor CKEditor. https://ckeditor.com/
 *  Text editor Tinymce. https://www.tinymce.com/
 *  Text editor  Summernote. https://summernote.org/
@@ -37,6 +42,7 @@ Ready References for website designer
 *  A customizable crop and zoom jQuery plugin. http://scottcheng.github.io/cropit/
 *  iOS 7 style switches for your checkboxes. http://abpetkov.github.io/switchery/
 *  Customized checkboxes and radio buttons for jQuery. http://icheck.fronteed.com/
+#### Table Plugins :
 *  Advanced interaction controls in any HTML table. https://datatables.net/
 *  Tiny jQuery/Bootstrap widget that makes a HTML table editable. https://github.com/mindmup/editable-table
 *  A responsive table plugin built on jQuery and made for Bootstrap.. https://fooplugins.github.io/FooTable/index.html
@@ -45,6 +51,7 @@ Ready References for website designer
 *  Cascading grid layout library. https://masonry.desandro.com/
 *  Touch-enabled before/after slider with requestAnimationFrame. https://github.com/koenoe/cocoen
 *  jQuery responsive carousel. https://github.com/OwlCarousel2/OwlCarousel2
+#### Chart & MAP Plugins :
 *  Pretty time-series line graphs. https://github.com/morrisjs/morris.js
 *  Flot is a pure JavaScript plotting library for jQuery. http://www.flotcharts.org/
 *  Simple HTML5 Charts using the canvas tag. https://github.com/chartjs/Chart.js
@@ -57,6 +64,7 @@ Ready References for website designer
 *  Google maps api with less pain and more fun. https://hpneo.github.io/gmaps/
 *  Map view from Yandex. https://tech.yandex.com/maps/
 *  Javascript pluggin for vector maps. http://jvectormap.com/
+#### Others Plugins :
 *  The easiest way to show people how to use your website. http://bootstraptour.com/
 *  A JavaScript event calendar. https://fullcalendar.io/
 *  SyntaxHighlighter is a fully functional self-contained code syntax highlighter developed in JavaScript. http://alexgorbatchev.com/SyntaxHighlighter/
@@ -65,7 +73,6 @@ Ready References for website designer
 *  Provides you a way to monitor user activity with a page. https://github.com/thorst/jquery-idletimer
 *  Low-Budget password strength estimation. https://github.com/dropbox/zxcvbn
 *  A wrapper around Google’s diff_match_patch library, to make life easy. https://github.com/arnab/jQuery.PrettyTextDiff/
-*  Set of user interface built on top of the jQuery. http://jqueryui.com/
 *  jsTree is jquery plugin, that provides interactive trees. https://www.jstree.com/
 *  Automatic page load progress bar. https://github.hubspot.com/pace/docs/welcome/
 *  Simple wrapper for cross-browser usage of the JavaScript Fullscreen API. https://github.com/sindresorhus/screenfull.js/

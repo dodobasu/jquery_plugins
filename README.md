@@ -3,7 +3,7 @@
 Ready References for website designer
 
 ## Jquery CSS Plugins & Framework
-
+### CSS Framework
 * Bootstrap is the most popular HTML, CSS, and JS framework for developing responsive, mobile first projects on the web.  https://getbootstrap.com/ ###
 *  jQuery is a fast, small, and feature-rich JavaScript library https://jquery.com/
 *  A jQuery plugin that will count up (or down) to a target number at a specified speed. https://github.com/mhuggins/jquery-countTo
@@ -42,25 +42,39 @@ Ready References for website designer
 *  A responsive table plugin built on jQuery and made for Bootstrap.. https://fooplugins.github.io/FooTable/index.html
 *  The original lightbox script. https://lokeshdhakar.com/projects/lightbox2/
 *  Custom carousel feature. http://kenwheeler.github.io/slick/
-*  jQuery is a fast, small, and feature-rich JavaScript library https://jquery.com/
-*  jQuery is a fast, small, and feature-rich JavaScript library https://jquery.com/
-*  jQuery is a fast, small, and feature-rich JavaScript library https://jquery.com/
-*  jQuery is a fast, small, and feature-rich JavaScript library https://jquery.com/
-*  jQuery is a fast, small, and feature-rich JavaScript library https://jquery.com/
-*  jQuery is a fast, small, and feature-rich JavaScript library https://jquery.com/
-*  jQuery is a fast, small, and feature-rich JavaScript library https://jquery.com/
-*  jQuery is a fast, small, and feature-rich JavaScript library https://jquery.com/
-*  jQuery is a fast, small, and feature-rich JavaScript library https://jquery.com/
-*  jQuery is a fast, small, and feature-rich JavaScript library https://jquery.com/
-*  jQuery is a fast, small, and feature-rich JavaScript library https://jquery.com/
-*  jQuery is a fast, small, and feature-rich JavaScript library https://jquery.com/
-*  jQuery is a fast, small, and feature-rich JavaScript library https://jquery.com/
-*  jQuery is a fast, small, and feature-rich JavaScript library https://jquery.com/
-*  jQuery is a fast, small, and feature-rich JavaScript library https://jquery.com/
-*  jQuery is a fast, small, and feature-rich JavaScript library https://jquery.com/
-*  jQuery is a fast, small, and feature-rich JavaScript library https://jquery.com/
-*  jQuery is a fast, small, and feature-rich JavaScript library https://jquery.com/
-*  jQuery is a fast, small, and feature-rich JavaScript library https://jquery.com/
+*  Cascading grid layout library. https://masonry.desandro.com/
+*  Touch-enabled before/after slider with requestAnimationFrame. https://github.com/koenoe/cocoen
+*  jQuery responsive carousel. https://github.com/OwlCarousel2/OwlCarousel2
+*  Pretty time-series line graphs. https://github.com/morrisjs/morris.js
+*  Flot is a pure JavaScript plotting library for jQuery. http://www.flotcharts.org/
+*  Simple HTML5 Charts using the canvas tag. https://github.com/chartjs/Chart.js
+*  This jQuery plugin generates sparklines (small inline charts) https://omnipotent.net/jquery.sparkline/#s-about
+*  This jQuery plugin generates sparklines (small inline charts)  https://github.com/aterrien/jQuery-Knob
+*  Peity is a jQuery plugin that converts an element’s content into a svg mini  http://benpickles.github.io/peity/
+*  JavaScript toolkit for creating interactive real-time graphs. https://github.com/shutterstock/rickshaw
+*  D3-based reusable chart library. https://c3js.org/
+*  Map view from Google. https://developers.google.com/maps/
+*  Google maps api with less pain and more fun. https://hpneo.github.io/gmaps/
+*  Map view from Yandex. https://tech.yandex.com/maps/
+*  Javascript pluggin for vector maps. http://jvectormap.com/
+*  The easiest way to show people how to use your website. http://bootstraptour.com/
+*  A JavaScript event calendar. https://fullcalendar.io/
+*  SyntaxHighlighter is a fully functional self-contained code syntax highlighter developed in JavaScript. http://alexgorbatchev.com/SyntaxHighlighter/
+*  A small library for manipulating the favicon. https://github.com/tommoor/tinycon
+*  i18next is a very popular internationalization library for browser or any other javascript environment. https://www.i18next.com/
+*  Provides you a way to monitor user activity with a page. https://github.com/thorst/jquery-idletimer
+*  Low-Budget password strength estimation. https://github.com/dropbox/zxcvbn
+*  A wrapper around Google’s diff_match_patch library, to make life easy. https://github.com/arnab/jQuery.PrettyTextDiff/
+*  Set of user interface built on top of the jQuery. http://jqueryui.com/
+*  jsTree is jquery plugin, that provides interactive trees. https://www.jstree.com/
+*  Automatic page load progress bar. https://github.hubspot.com/pace/docs/welcome/
+*  Simple wrapper for cross-browser usage of the JavaScript Fullscreen API. https://github.com/sindresorhus/screenfull.js/
+*  A jQuery menu plugin. https://github.com/onokumus/metismenu
+*  slimScroll is a small (4.6KB) jQuery plugin that transforms any div into a scrollable area with a nice scrollbar. http://rocha.la/jQuery-slimScroll
+
+### Free Photo
+*  Free (do whatever you want) high-resolution photos. https://unsplash.com/
+
 
 
 
